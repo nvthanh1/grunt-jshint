@@ -1,1 +1,1 @@
-# grunt-jshint
+Static nodejs app with a Gruntfile JSHint
